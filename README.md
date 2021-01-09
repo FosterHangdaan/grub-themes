@@ -14,8 +14,6 @@ Everything within this repo is under the MIT License unless stated otherwise.
 - [Foster Hangdaan](https://github.com/FosterHangdaan)
 
 # Screenshots
-<br />
-
 ## Anonymous
 ![](screenshots/anonymous-01.png) <br />
 ![](screenshots/anonymous-02.png) <br />
