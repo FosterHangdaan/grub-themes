@@ -1,0 +1,43 @@
+# Anonymous Theme by Foster Hangdaan
+
+desktop-color: "#000"
+message-color: "#000"
+title-text: ""
+desktop-image: "background.png"
+terminal-font: "Unifont Regular 16"
+terminal-left: "10%"
+terminal-width: "80%"
+terminal-top: "17%"
+terminal-height: "66%"
+
++ boot_menu {
+  left = 35%
+  width = 30%
+  top = 25%
+  height = 50%
+
+  item_font = "CaskaydiaCove Nerd Font Regular 22"
+  item_color = "#7F8C8D"
+  item_height = 48
+  item_icon_space = 8
+  item_spacing = 5
+  item_padding = 5
+
+  selected_item_font = "CaskaydiaCove Nerd Font Regular 22"
+  selected_item_color = "#FFFFFF"
+  selected_item_pixmap_style = "selected_item_pixmap_style_*.png"
+
+  icon_height = 48
+  icon_width = 48
+}
+
++ label {
+	id = "__timeout__"
+	left = 0
+	top = 100%-70
+	width = 100%
+	align = "center"
+	text = "Booting in %d seconds"
+	color = "#FFFFFF"
+	font = "CaskaydiaCove Nerd Font Regular 22" 
+}
