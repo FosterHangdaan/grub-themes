@@ -7,8 +7,8 @@ A collection of themes I have created for GRUB.
 - Update the grub configuration by running `sudo update-grub`.
 - Reboot the system to view the new GRUB theme.
 
-# Licensing
-Everything within this repo is under the MIT License unless stated otherwise.
+# License
+License information for each theme is contained within its folder.
 
 # Developer
 - [Foster Hangdaan](https://github.com/FosterHangdaan)
